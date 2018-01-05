@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore-mobius", "dotnetcore-mobius\dotnetcore-mobius.csproj", "{1E8279E9-A200-4B3E-9321-359605507BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore-mobius-console", "dotnetcore-mobius-console\dotnetcore-mobius-console.csproj", "{05849A3E-1A51-4B8F-886F-6524E9872567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8279E9-A200-4B3E-9321-359605507BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8279E9-A200-4B3E-9321-359605507BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8279E9-A200-4B3E-9321-359605507BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8279E9-A200-4B3E-9321-359605507BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05849A3E-1A51-4B8F-886F-6524E9872567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05849A3E-1A51-4B8F-886F-6524E9872567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05849A3E-1A51-4B8F-886F-6524E9872567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05849A3E-1A51-4B8F-886F-6524E9872567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C27E499-66F4-4442-AC40-119FED4BE37B}
+	EndGlobalSection
+EndGlobal
